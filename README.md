@@ -106,7 +106,7 @@ Je documente **en temps réel** :
 
 🌐 Site : https://smileupplatform.com  
 💼 GitHub : https://github.com/harissonola  
-📧 Email : contact@smileupplatform.com
+📧 Email : danielw@smileupplatform.com
 
 ---
 
